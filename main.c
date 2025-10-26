@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-#include<stdio.h>
+#include <stdio.h>
 
-<<<<<<< HEAD
 int main(){
-    printf("Hi, wming18082721229 from wming12229!");
+    puts("Hi, wming18082721229 from wming1229!");
     return 0;
 }
