@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    puts("Back to work again...");
+    puts("Now we are making some fake conflicts");
     return 0;
 }
