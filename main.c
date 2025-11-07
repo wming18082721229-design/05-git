@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-    puts("Hi, wming18082721229 from wming1229!");
+    puts("Back to work again...");
     return 0;
 }
